@@ -28,6 +28,6 @@
 ---
 
 ## 🌐 Connect With Me
-- [LinkedIn](https://linkedin.com/in/your-link)
+- [LinkedIn](www.linkedin.com/in/ziad-elsayed-399aa62aa)
 - [Portfolio](https://your-portfolio.com)
-- [Email](mailto:your@email.com)
+- [Email](mailto:ziadelsayed202201590@gmail.com)
