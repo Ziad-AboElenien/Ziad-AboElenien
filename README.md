@@ -1,32 +1,33 @@
-# 👋 Hi, I'm Ziad
 
-🚀 A passionate **Front-End Developer** from Egypt.  
-💡 I love building modern web applications with a focus on **UI/UX** and performance.  
-🎓 Currently working on my graduation project.
-
----
-
-## 🛠️ Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
-
----
-
-## 📊 GitHub Stats
-![Ziad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=YourUserName&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/ziad-elsayed-399aa62aa)
-- [Portfolio](https://your-portfolio.com)
-- [Email](mailto:ziadelsayed202201590@gmail.com)
+Find a repository…
+portfolioo Public
+ CSS Updated 18 hours ago
+meal-donee Public
+ JavaScript Updated on Dec 19, 2025
+Meal-Done Public
+ JavaScript Updated on Dec 13, 2025
+Portfolio Public
+ JavaScript Updated on Dec 12, 2025
+Movie-App Public
+ JavaScript Updated on Dec 3, 2025
+yummy Public
+ JavaScript Updated on Dec 2, 2025
+Weather Public
+ HTML Updated on Nov 24, 2025
+To-Do-List Public
+ CSS Updated on Nov 23, 2025
+VOTE-X Public
+ HTML Updated on Nov 20, 2025
+Web-project-1 Private
+ CSS  1 Updated on Nov 15, 2025
+Bakery Public
+ HTML Updated on Nov 14, 2025
+Login Public
+ HTML Updated on Oct 31, 2025
+Bookmarker Public
+ HTML Updated on Oct 21, 2025
+Start-Project Public
+ JavaScript Updated on Oct 19, 2025
+Quotes-App Public
+ JavaScript Updated on Oct 13, 2025
+Ziad-AboElenien
